@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -47,11 +47,15 @@
     },
     {
       "class": "shapeGroup",
-      "id": "54908276-3B2F-449A-B578-9E1C7A8B9668"
+      "id": "050B24FC-D81D-4DDE-9936-E7193881BADC"
     },
     {
       "class": "shapeGroup",
-      "id": "050B24FC-D81D-4DDE-9936-E7193881BADC"
+      "id": "44491C0A-9C8A-47D9-A6E1-2FE1E663454E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27B53B5F-6D8B-4FC4-A446-24C734E77622"
     }
   ],
   "name": "iPhone 7",
